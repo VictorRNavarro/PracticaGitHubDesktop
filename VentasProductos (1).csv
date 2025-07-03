@@ -1,0 +1,21 @@
+ID;Fecha;Producto;Categoria;Cantidad;Precio;Total;MetodoPago
+1;1/1/2025;Laptop;Electronica;3;50;150;Tarjeta
+2;1/1/2025;Camiseta;Ropa;1;15;15;Contado
+3;2/1/2025;Monitor;Electronica;2;25;50;NA
+4;3/1/2025;Silla Gaming;Muebles;4;11;44;Tarjeta
+5;3/1/2025;Laptop;Electronica;5;15;75;Contado
+6;4/1/2025;Camiseta Deportiva;Ropa;1;25;25;Tarjeta
+7;4/1/2025;Reloj;Accesorios;3;20;60;Contado
+8;5/1/2025;Chaqueta;Ropa;2;11;22;Credito
+9;6/1/2025;Camiseta Deportiva;Ropa;4;15;60;Tarjeta
+10;6/1/2025;Laptop;Electronica;3;25;75;NA
+11;7/1/2025;Silla Gaming;Muebles;1;20;20;Contado
+12;7/1/2025;Camiseta;Ropa;5;11;55;Tarjeta
+13;8/1/2025;Laptop;Electronica;2;25;50;Credito
+14;9/1/2025;Reloj;Accesorios;6;15;90;Tarjeta
+15;9/1/2025;Reloj;Accesorios;4;20;80;Contado
+16;10/1/2025;Silla Gaming;Muebles;3;11;33;Contado
+17;10/1/2025;Laptop;Electronica;2;15;30;Contado
+18;11/1/2025;Monitor;Electronica;1;25;25;Credito
+19;12/1/2025;Laptop;Electronica;3;20;60;Contado
+20;13/1/2025;Zapato;Ropa;4;11;44;Credito
